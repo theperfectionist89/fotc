@@ -1,0 +1,49 @@
+*************************************
+Gwendolyn Janusdottir
+Level 2 Human Berserker
+POW:18  ERG:11  SKI:9
+AGL:12  DEF:11  RES:11
+LCK:10   HP:21/21       Lust:0/22
+Perks: [Ancient Artefacts]
+Powers: []
+Buffs: []
+Attacks: [Fists, Tease]
+
+Gwendolyn Janusdottir is wearing no armour
+
+Morcdar
+Level 3 Demon Rogue
+POW:11  ERG:19  SKI:15
+AGL:17  DEF:8   RES:9
+LCK:17   HP:18/18       Lust:0/29
+Perks: [Cult Leader Knowledge, Aroma Veil]
+Powers: []
+Buffs: []
+Attacks: [Fists, Entice I, Tease]
+
+Morcdar is wearing no armour
+*************************************
+
+Morcdar's turn
+        Morcdar is attacking
+        Morcdar hits with Entice I (84%) dealing 13 Lust damage
+Gwendolyn's turn
+        Gwendolyn is attacking
+        Gwendolyn hits with Fists (85%) dealing 12 Bludgeoning damage
+Morcdar's turn
+        Morcdar is attacking
+        Morcdar hits with Entice I (84%) dealing 13 Lust damage
+Morcdar is Healthy
+Gwendolyn Janusdottir is Healthy
+Morcdar (Healthy): 6/18 HP, 0/29 Lust
+Gwendolyn Janusdottir (Healthy): 21/21 HP, 26/22 Lust
+End Round
+
+
+Endgame
+Morcdar (Healthy): 6/18 HP, 0/29 Lust
+Gwendolyn Janusdottir (Healthy): 21/21 HP, 26/22 Lust
+
+Gwendolyn:   57 Wins on KO,    0 Wins on Flee
+Morcdar  :  943 Wins on KO,    0 Wins on Flee
+Draw     :    0

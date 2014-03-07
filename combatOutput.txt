@@ -1,0 +1,14 @@
+Jackalope attacks with Horn Attack
+Damage:            10
+Accuracy:          65
+Critical:       False (  14)
+Contact:         True
+Def State:    Healthy --> Bleeding   (  39)
+****************************
+Gwendolyn Janusdottir attacks with Fists
+Damage:            11
+Accuracy:          94
+Critical:       False (   0)
+Contact:         True
+Def State:    Healthy --> Healthy    (  -8)
+****************************

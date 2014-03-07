@@ -1,0 +1,53 @@
+Aerokinesis | Human, Demon | Beta | CRP | CRP | ZZZYZX
+Ambient Energy | Any | Beta | CRP | TGH | ZWZVZU
+Amuletum | Any | Beta | CHA | LST | ZTZSZR
+Blood Blades | Boss | Alpha | SPE | STR | ZQZPZOZN
+Blood Transfer | Dragonborn, Demon, Spider, Snake, Basilisk | Beta | STR | CHA | ZMZLZK
+Bone Manipulation | Any | Beta | SPE | TGH | ZJZIZH
+Chlorokinesis | Human, Demon | Beta | CRP | TGH | ZGZFZE
+Cryokinesis | Human, Demon | Beta | CRP | TGH | ZDZCZB
+Dream Manipulation | Any | Alpha | INT | CHA | ZAYZYYYX
+Earth Manipulation | Human, Demon | Beta | CRP | SPE | YWYVYU
+Electric Manipulation | Human, Demon | Beta | CRP | SPE | YTYSYR
+Energy Bow | Any | Beta | INT | STR | YQYPYO
+Energy Plasmoids | Any | Omega | INT | STR | YNYM
+Feather Flurry | Phoenix, Harpy | Beta | STR | SPE | YLYKYJ
+Gravity Manipulation | Human, Demon | Beta | CRP | LST | YIYHYG
+Hydrokinesis | Human, Demon | Beta | CRP | CRP | YFYEYD
+Hypnotic Charm | Any | Beta | CHA | INT | YCYBYA
+Invulnerability | Any | Omega | TGH | TGH | XZXY
+Kinetic Charges | Human, Demon | Beta | STR | SPE | XXXWXV
+Light Manipulation | Human, Demon | Omega | CRP | SPI | XUXT
+Limb Elongation | Any | Beta | SPE | SPE | XSXRXQ
+Mental Backlash | Any | Omega | INT | SPI | XPXO
+Mental Shield | Any | Omega | INT | SPI | XNXM
+Metal Manipulation | Human, Demon | Beta | CRP | SPE | XLXKXJ
+Molecular Manipulation | Boss | Alpha | SPE | TGH | XIXHXGXF
+Needle Storm | Bear, Wolf | Beta | TGH | SPE | XEXDXC
+Pain Manipulation | Any | Beta | LST | INT | XBXAWZ
+Petal Dance | Bee, Imp | Alpha | CRP | STR | WYWXWWWV
+Phasing | Any | Beta | SPE | TGH | WUWTWS
+Pheromone Control | Boss | Beta | CHA | LST | WRWQWP
+Photographic Memory | Boss | Alpha | INT | LST | WOWNWMWL
+Precognition | Any | Omega | LST | SPI | WKWJ
+Psionic Weapons | Any | Beta | INT | STR | WIWHWG
+Pyrokinesis | Human, Demon | Beta | CRP | STR | WFWEWD
+Reactive Adaption | Boss | Omega | TGH | SPI | WCWB
+Regal Aura | Any | Omega | CHA | CHA | WAVZ
+Sealing | Any | Beta | CHA | LST | VYVXVW
+Sense Manipulation | Any | Omega | LST | LST | VVVU
+Sensory Enhancement | Any | Omega | LST | SPI | VTVS
+Sonic Manipulation | Human, Demon | Beta | CRP | LST | VRVQVP
+Soul Gazing | Boss | Alpha | STR | INT | VOVNVMVL
+Storm of Judgment | Human | Alpha | STR | TGH | VKVJVIVH
+Summoning | Boss | Beta | CHA | CHA | VGVFVE
+Telekinesis | Any | Beta | INT | SPE | VDVCVB
+Telepathy | Creatures, Morphs | Alpha | INT | INT | VAUZUYUX
+Thermal Regulation | Human, Demon | Beta | CRP | SPI | UWUVUU
+Tracking | Wolf, Fox, Kitsune | Omega | SPE | LST | UTUS
+Umbrakinesis | Human, Demon | Omega | CRP | SPI | URUQ
+Venom Bolts | Any | Beta | SPE | STR | UPUOUN
+Vestibular Reflexes | Any | Omega | SPE | TGH | UMUL
+Weather Manipulation | Human, Demon | Beta | CRP | CRP | UKUJUI
+Wood Manipulation | Human, Demon | Beta | CRP | SPE | UHUGUF
+Zilla Blast | Boss | Beta | STR | STR | UEUDUC

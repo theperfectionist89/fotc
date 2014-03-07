@@ -1,0 +1,7 @@
+Antithan|Professional|Ambassador|Rogue|Investigator|STR|TGH|CHA
+Draimus|Cleric|Stalwart|Investigator|Acolyte|STR|SPE|SPI
+Phodela|Corsair|Scholar|Acolyte|Berserker|SPE|CHA|INT
+Recomera|Berserker|Dreadnought|Hero|Duelist|INT|SPI|STR
+Sapydra|Dreadnought|Bodyguard|Stalwart|Daredevil|INT|CHA|TGH
+Tutanethe|Infiltrator|Duelist|Ninja|Rogue|TGH|SPI|SPE
+Invidia|N/A|N/A|N/A|N/A|N/A|N/A|N/A

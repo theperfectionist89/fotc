@@ -1,0 +1,221 @@
+Kitty Rose	Kat	Into The Portal	Tutanethe	FALSE	Open	266	Jan 18, 08:50
+Kitty Rose	Kat	That's What You Get	Tutanethe	FALSE	Open	249	Jan 19, 15:31
+Maia Elverson	Damien	I Won't Be Second Best	Draimus	FALSE	Open	462	Jan 19, 16:42
+Lincoln Hale	Damien	Into The Portal	Invidia	FALSE	Open	630	Jan 19, 17:50
+Kitty Rose	Kat	Into The Portal	Tutanethe	FALSE	Open	463	Jan 19, 19:32
+Lincoln Hale	Damien	Into The Portal	Invidia	FALSE	Open	601	Jan 19, 20:17
+Kitty Rose	Kat	Into The Portal	Tutanethe	FALSE	Open	382	Jan 20, 15:50
+Lincoln Hale	Damien	Into The Portal	Invidia	FALSE	Open	836	Jan 21, 03:44
+Zhia	Eleusis	That's What You Get	Invidia	FALSE	Open	546	Jan 23, 12:36
+Ariana Summers	Eleusis	Don't Fall Over Now	Invidia	FALSE	Closed	408	Jan 24, 13:39
+Kitty Rose	Kat	Into The Portal	Tutanethe	FALSE	Open	503	Jan 25, 16:44
+Lincoln Hale	Damien	Don't Fall Over Now	Invidia	FALSE	Closed	645	Jan 25, 18:34
+Lincoln Hale	Damien	Into The Portal	Invidia	FALSE	Open	679	Jan 25, 19:16
+Ariana Summers	Eleusis	Don't Fall Over Now	Invidia	FALSE	Closed	615	Jan 25, 20:07
+Ariana Summers	Eleusis	I Won't Be Second Best	Invidia	FALSE	Open	666	Jan 26, 13:27
+Alexander Bishop	Ozlen	Survival of the Fittest	Tutanethe	FALSE	Open	249	Jan 27, 13:33
+Kitty Rose	Kat	That's What You Get	Tutanethe	FALSE	Open	385	Jan 27, 17:47
+Kitty Rose	Kat	Survival of the Fittest	Tutanethe	FALSE	Open	311	Jan 27, 18:11
+Alexander Bishop	Ozlen	Survival of the Fittest	Tutanethe	FALSE	Open	435	Jan 27, 18:38
+Lincoln Hale	Damien	Don't Fall Over Now	Invidia	FALSE	Closed	487	Jan 28, 00:20
+Ariana Summers	Eleusis	Don't Fall Over Now	Invidia	FALSE	Closed	741	Jan 28, 00:50
+Maia Elverson	Damien	I Won't Be Second Best	Draimus	FALSE	Open	800	Jan 28, 00:59
+Alexander Bishop	Ozlen	Blades of Grass	Tutanethe	FALSE	Open	528	Jan 28, 10:34
+Lincoln Hale	Damien	Don't Fall Over Now	Invidia	FALSE	Closed	824	Jan 28, 13:42
+Tynrad Selene	Mariah	Amnesia's Kiss	Invidia	FALSE	Open	407	Jan 28, 15:42
+Dorothea Agnersdottir	Janni	Is This Real?	Recomera	FALSE	Open	559	Jan 29, 06:11
+Maia Elverson	Damien	Is This Real?	Draimus	FALSE	Open	801	Jan 29, 13:49
+Mesuzatikenyan	Afanc	A Long Road Ahead	Invidia	FALSE	Open	224	Jan 29, 14:45
+Alexander Bishop	Ozlen	Amnesia's Kiss	Tutanethe	FALSE	Open	511	Jan 30, 10:37
+Ariana Summers	Eleusis	Don't Fall Over Now	Invidia	FALSE	Closed	830	Jan 31, 00:55
+Ariana Summers	Eleusis	I Won't Be Second Best	Invidia	FALSE	Open	638	Jan 31, 01:15
+Lincoln Hale	Damien	Don't Fall Over Now	Invidia	FALSE	Closed	627	Jan 31, 20:31
+Maia Elverson	Damien	I Won't Be Second Best	Draimus	FALSE	Open	1030	Feb 01, 23:02
+Maia Elverson	Damien	Blades of Grass	Draimus	FALSE	Open	881	Feb 02, 00:37
+Alexander Bishop	Ozlen	Blades of Grass	Tutanethe	FALSE	Open	706	Feb 02, 08:41
+Gwendolyn Janusdottir	Gwen	New Battles	Antithan	FALSE	Open	1064	Feb 02, 17:58
+Zhia	Eleusis	That's What You Get	Invidia	FALSE	Open	608	Feb 03, 13:40
+Zhia	Eleusis	New Battles	Invidia	FALSE	Open	820	Feb 03, 14:03
+Ariana Summers	Eleusis	Don't Fall Over Now	Invidia	FALSE	Closed	600	Feb 04, 18:27
+Ariana Summers	Eleusis	I Won't Be Second Best	Invidia	FALSE	Open	656	Feb 04, 18:53
+Kitty Rose	Kat	Into The Portal	Tutanethe	FALSE	Open	561	Feb 04, 18:57
+Maia Elverson	Damien	Blades of Grass	Draimus	FALSE	Open	610	Feb 04, 23:45
+Gwendolyn Janusdottir	Gwen	New Battles	Antithan	FALSE	Open	1189	Feb 05, 13:15
+Lincoln Hale	Damien	Don't Fall Over Now	Invidia	FALSE	Closed	668	Feb 05, 13:41
+Nathaniel Castle	Icarus	The Big, The Bad, The Rich	Sapydra	FALSE	Open	1007	Feb 05, 15:13
+Alexander Bishop	Ozlen	Blades of Grass	Tutanethe	FALSE	Open	401	Feb 05, 15:15
+Kitty Rose	Kat	Survival of the Fittest	Tutanethe	FALSE	Open	476	Feb 05, 17:04
+Alexander Bishop	Ozlen	Survival of the Fittest	Tutanethe	FALSE	Open	411	Feb 05, 22:18
+Lincoln Hale	Damien	Into The Portal	Invidia	FALSE	Open	889	Feb 06, 02:35
+Dorothea Agnersdottir	Janni	Is This Real?	Recomera	FALSE	Open	649	Feb 06, 11:15
+Maia Elverson	Damien	I Won't Be Second Best	Draimus	FALSE	Open	1682	Feb 06, 13:25
+Kitty Rose	Kat	That's What You Get	Tutanethe	FALSE	Open	684	Feb 06, 15:28
+Kitty Rose	Kat	Twisted Luck	Tutanethe	FALSE	Closed	94	Feb 06, 16:41
+Maia Elverson	Damien	Is This Real?	Draimus	FALSE	Open	611	Feb 06, 17:38
+Kitty Rose	Kat	Survival of the Fittest	Tutanethe	FALSE	Open	516	Feb 06, 18:24
+Kitty Rose	Kat	A Long Road Ahead	Tutanethe	FALSE	Open	319	Feb 06, 18:52
+Kitty Rose	Kat	Only Hope	Tutanethe	FALSE	Open	321	Feb 06, 19:15
+Kitty Rose	Kat	Into The Portal	Tutanethe	FALSE	Open	644	Feb 06, 19:55
+Zhia	Eleusis	That's What You Get	Invidia	FALSE	Open	655	Feb 06, 20:34
+Ariana Summers	Eleusis	Don't Fall Over Now	Invidia	FALSE	Closed	678	Feb 06, 20:50
+Lincoln Hale	Damien	Into The Portal	Invidia	FALSE	Open	811	Feb 06, 23:51
+Nathaniel Castle	Icarus	Only Hope	Sapydra	FALSE	Open	413	Feb 07, 01:21
+Lincoln Hale	Damien	Don't Fall Over Now	Invidia	FALSE	Closed	814	Feb 07, 01:39
+Kitty Rose	Kat	That's What You Get	Tutanethe	FALSE	Open	620	Feb 07, 10:32
+Lincoln Hale	Damien	The Big, The Bad, The Rich	Invidia	FALSE	Open	714	Feb 07, 12:26
+Dorothea Agnersdottir	Janni	Twisted Luck	Recomera	FALSE	Closed	290	Feb 07, 13:19
+Kitty Rose	Kat	Only Hope	Tutanethe	FALSE	Open	418	Feb 07, 13:28
+Kitty Rose	Kat	Twisted Luck	Tutanethe	FALSE	Closed	218	Feb 07, 13:42
+Nathaniel Castle	Icarus	The Big, The Bad, The Rich	Sapydra	FALSE	Open	608	Feb 07, 14:46
+Nathaniel Castle	Icarus	Only Hope	Sapydra	FALSE	Open	409	Feb 07, 15:25
+Kitty Rose	Kat	Fools Rush In	Tutanethe	FALSE	Open	441	Feb 07, 16:02
+Dorothea Agnersdottir	Janni	Twisted Luck	Recomera	FALSE	Closed	245	Feb 07, 16:47
+Kitty Rose	Kat	Twisted Luck	Tutanethe	FALSE	Closed	239	Feb 07, 18:18
+Lincoln Hale	Damien	The Big, The Bad, The Rich	Invidia	FALSE	Open	835	Feb 07, 20:25
+Zhia	Eleusis	New Battles	Invidia	FALSE	Open	1137	Feb 07, 20:37
+Maia Elverson	Damien	Blades of Grass	Draimus	FALSE	Open	620	Feb 07, 21:56
+Nathaniel Castle	Icarus	Fire, Fire, Burning Bright	Sapydra	FALSE	Open	625	Feb 08, 04:34
+Nathaniel Castle	Icarus	The Big, The Bad, The Rich	Sapydra	FALSE	Open	829	Feb 08, 14:43
+Dorothea Agnersdottir	Janni	Twisted Luck	Recomera	FALSE	Closed	243	Feb 08, 15:17
+Kitty Rose	Kat	Twisted Luck	Tutanethe	FALSE	Closed	423	Feb 08, 16:09
+Xander Di Morne	Xander	Fools Rush In	Invidia	FALSE	Open	394	Feb 08, 18:48
+Kitty Rose	Kat	Into The Portal	Tutanethe	FALSE	Open	644	Feb 08, 19:35
+Xander Di Morne	Xander	Fire, Fire, Burning Bright	Invidia	FALSE	Open	567	Feb 08, 20:10
+Alexander Bishop	Ozlen	Survival of the Fittest	Tutanethe	FALSE	Open	471	Feb 09, 06:59
+Alexander Bishop	Ozlen	Blades of Grass	Tutanethe	FALSE	Open	436	Feb 09, 07:54
+Nathaniel Castle	Icarus	Fire, Fire, Burning Bright	Sapydra	FALSE	Open	635	Feb 09, 09:01
+Xander Di Morne	Xander	Fire, Fire, Burning Bright	Invidia	FALSE	Open	444	Feb 09, 10:35
+Kitty Rose	Kat	Only Hope	Tutanethe	FALSE	Open	364	Feb 09, 12:38
+Kitty Rose	Kat	Fools Rush In	Tutanethe	FALSE	Open	345	Feb 09, 14:01
+Xander Di Morne	Xander	Fools Rush In	Invidia	FALSE	Open	485	Feb 09, 14:49
+Nathaniel Castle	Icarus	Fire, Fire, Burning Bright	Sapydra	FALSE	Open	408	Feb 09, 16:02
+Xander Di Morne	Xander	Fire, Fire, Burning Bright	Invidia	FALSE	Open	545	Feb 09, 16:23
+Alexander Bishop	Ozlen	A Stick in the Mud	Tutanethe	FALSE	Open	1531	Feb 09, 17:24
+Nathaniel Castle	Icarus	Only Hope	Sapydra	FALSE	Open	404	Feb 09, 17:25
+Kitty Rose	Kat	Survival of the Fittest	Tutanethe	FALSE	Open	465	Feb 09, 17:37
+Maia Elverson	Damien	Blades of Grass	Draimus	FALSE	Open	698	Feb 10, 02:50
+Ariana Summers	Eleusis	Don't Fall Over Now	Invidia	FALSE	Closed	1090	Feb 10, 03:49
+Ariana Summers	Eleusis	I Won't Be Second Best	Invidia	FALSE	Open	1023	Feb 10, 04:06
+Zhia	Eleusis	That's What You Get	Invidia	FALSE	Open	611	Feb 10, 04:18
+Ariana Summers	Eleusis	You're Gonna Hear Me Roar	Invidia	FALSE	Open	605	Feb 10, 04:33
+Ariana Summers	Eleusis	A Stick in the Mud	Invidia	FALSE	Open	746	Feb 10, 13:29
+Xander Di Morne	Xander	You're Gonna Hear Me Roar	Invidia	FALSE	Open	814	Feb 10, 14:12
+Alexander Bishop	Ozlen	Survival of the Fittest	Tutanethe	FALSE	Open	608	Feb 10, 18:09
+Maia Elverson	Damien	I Won't Be Second Best	Draimus	FALSE	Open	1730	Feb 11, 00:13
+Lincoln Hale	Damien	Don't Fall Over Now	Invidia	FALSE	Closed	1128	Feb 11, 01:26
+Lincoln Hale	Damien	Into The Portal	Invidia	FALSE	Open	603	Feb 11, 01:45
+Lincoln Hale	Damien	The Big, The Bad, The Rich	Invidia	FALSE	Open	827	Feb 11, 02:20
+Alexander Bishop	Ozlen	Blades of Grass	Tutanethe	FALSE	Open	605	Feb 11, 10:42
+Alexander Bishop	Ozlen	A Stick in the Mud	Tutanethe	FALSE	Open	406	Feb 11, 11:45
+Mesuzatikenyan	Afanc	A Long Road Ahead	Invidia	FALSE	Open	179	Feb 11, 14:08
+Nathaniel Castle	Icarus	Fire, Fire, Burning Bright	Sapydra	FALSE	Open	415	Feb 11, 15:43
+Alexander Bishop	Ozlen	A Long Road Ahead	Tutanethe	FALSE	Open	314	Feb 11, 17:42
+Kitty Rose	Kat	That's What You Get	Tutanethe	FALSE	Open	634	Feb 11, 19:15
+Surreal	Kat	Run and Hide	Invidia	FALSE	Closed	442	Feb 12, 07:52
+Maia Elverson	Damien	Blades of Grass	Draimus	FALSE	Open	805	Feb 12, 13:12
+Maia Elverson	Damien	Nothing Can Hold Me	Draimus	FALSE	Open	859	Feb 12, 13:47
+Surreal	Kat	Nothing Can Hold Me	Invidia	FALSE	Open	806	Feb 12, 17:40
+Kitty Rose	Kat	A Long Road Ahead	Tutanethe	FALSE	Open	323	Feb 12, 18:05
+Xander Di Morne	Xander	Fire, Fire, Burning Bright	Invidia	FALSE	Open	514	Feb 12, 22:23
+Zhia	Eleusis	That's What You Get	Invidia	FALSE	Open	646	Feb 12, 23:17
+Ariana Summers	Eleusis	A Stick in the Mud	Invidia	FALSE	Open	670	Feb 12, 23:18
+Ariana Summers	Eleusis	You're Gonna Hear Me Roar	Invidia	FALSE	Open	621	Feb 12, 23:19
+Dorothea Agnersdottir	Janni	Twisted Luck	Recomera	FALSE	Closed	217	Feb 13, 04:44
+Dorothea Agnersdottir	Janni	Run and Hide	Recomera	FALSE	Closed	286	Feb 13, 07:11
+Dorothea Agnersdottir	Janni	Is This Real?	Recomera	FALSE	Open	428	Feb 13, 12:40
+Maia Elverson	Damien	Nothing Can Hold Me	Draimus	FALSE	Open	668	Feb 14, 02:55
+Ariana Summers	Eleusis	I Won't Be Second Best	Invidia	FALSE	Open	1281	Feb 14, 18:51
+Ariana Summers	Eleusis	Don't Fall Over Now	Invidia	FALSE	Closed	1036	Feb 14, 19:32
+Kitty Rose	Kat	Fools Rush In	Tutanethe	FALSE	Open	473	Feb 14, 20:25
+Zhia	Eleusis	Fear Is For The Weak	Invidia	FALSE	Open	620	Feb 14, 21:39
+Alexander Bishop	Ozlen	Blades of Grass	Tutanethe	FALSE	Open	601	Feb 15, 15:40
+Alexander Bishop	Ozlen	A Stick in the Mud	Tutanethe	FALSE	Open	611	Feb 16, 12:29
+Kitty Rose	Kat	Survival of the Fittest	Tutanethe	FALSE	Open	417	Feb 16, 21:31
+Xander Di Morne	Xander	You're Gonna Hear Me Roar	Invidia	FALSE	Open	486	Feb 16, 22:27
+Maia Elverson	Damien	Is This Real?	Draimus	FALSE	Open	704	Feb 18, 00:12
+Maia Elverson	Damien	I Won't Be Second Best	Draimus	FALSE	Open	870	Feb 18, 00:49
+Maia Elverson	Damien	Blades of Grass	Draimus	FALSE	Open	649	Feb 18, 01:16
+Lincoln Hale	Damien	Don't Fall Over Now	Invidia	FALSE	Closed	1029	Feb 18, 13:56
+Surreal	Kat	Run and Hide	Invidia	FALSE	Closed	404	Feb 18, 15:26
+Kitty Rose	Kat	Twisted Luck	Tutanethe	FALSE	Closed	226	Feb 18, 20:12
+Ariana Summers	Eleusis	A Stick in the Mud	Invidia	FALSE	Open	656	Feb 19, 00:55
+Ariana Summers	Eleusis	I Won't Be Second Best	Invidia	FALSE	Open	665	Feb 19, 00:58
+Ariana Summers	Eleusis	You're Gonna Hear Me Roar	Invidia	FALSE	Open	652	Feb 19, 01:00
+Ariana Summers	Eleusis	Don't Fall Over Now	Invidia	FALSE	Closed	625	Feb 19, 01:10
+Alexander Bishop	Ozlen	Survival of the Fittest	Tutanethe	FALSE	Open	468	Feb 19, 15:45
+Alexander Bishop	Ozlen	Blades of Grass	Tutanethe	FALSE	Open	661	Feb 19, 19:39
+Maia Elverson	Damien	Blades of Grass	Draimus	FALSE	Open	886	Feb 19, 23:57
+Alexander Bishop	Ozlen	A Stick in the Mud	Tutanethe	FALSE	Open	874	Feb 20, 11:21
+Gwendolyn Janusdottir	Gwen	New Battles	Antithan	FALSE	Open	1551	Feb 20, 15:28
+Maia Elverson	Damien	I Won't Be Second Best	Draimus	FALSE	Open	644	Feb 20, 17:10
+Lincoln Hale	Damien	Long Way Down	Invidia	FALSE	Closed	801	Feb 20, 18:02
+Kitty Rose	Kat	That's What You Get	Tutanethe	FALSE	Open	655	Feb 20, 18:58
+Gwendolyn Janusdottir	Gwen	Long Way Down	Antithan	FALSE	Closed	2030	Feb 20, 20:09
+Kitty Rose	Kat	Only Hope	Tutanethe	FALSE	Open	412	Feb 20, 20:13
+Kitty Rose	Kat	Into The Portal	Tutanethe	FALSE	Open	608	Feb 20, 21:30
+Zhia	Eleusis	That's What You Get	Invidia	FALSE	Open	843	Feb 20, 22:53
+Lincoln Hale	Damien	Long Way Down	Invidia	FALSE	Closed	1562	Feb 21, 00:15
+Gwendolyn Janusdottir	Gwen	Long Way Down	Antithan	FALSE	Closed	2113	Feb 21, 08:40
+Kitty Rose	Kat	Survival of the Fittest	Tutanethe	FALSE	Open	490	Feb 21, 16:40
+Surreal	Kat	Nothing Can Hold Me	Invidia	FALSE	Open	607	Feb 21, 19:29
+Lincoln Hale	Damien	Into The Portal	Invidia	FALSE	Open	1043	Feb 22, 00:13
+Lincoln Hale	Damien	Don't Fall Over Now	Invidia	FALSE	Closed	693	Feb 22, 01:33
+Kitty Rose	Kat	That's What You Get	Tutanethe	FALSE	Open	804	Feb 22, 10:52
+Alexander Bishop	Ozlen	Survival of the Fittest	Tutanethe	FALSE	Open	444	Feb 22, 13:11
+Zhia	Eleusis	New Battles	Invidia	FALSE	Open	1062	Feb 22, 13:13
+Zhia	Eleusis	That's What You Get	Invidia	FALSE	Open	644	Feb 22, 13:15
+Ariana Summers	Eleusis	A Stick in the Mud	Invidia	FALSE	Open	670	Feb 22, 13:29
+Ariana Summers	Eleusis	I Won't Be Second Best	Invidia	FALSE	Open	605	Feb 22, 13:39
+Ariana Summers	Eleusis	Don't Fall Over Now	Invidia	FALSE	Closed	622	Feb 22, 13:59
+Kitty Rose	Kat	That's What You Get	Tutanethe	FALSE	Open	611	Feb 22, 18:49
+Kitty Rose	Kat	Into The Portal	Tutanethe	FALSE	Open	1015	Feb 22, 23:13
+Lincoln Hale	Damien	Long Way Down	Invidia	FALSE	Closed	2133	Feb 23, 00:48
+Maia Elverson	Damien	Nothing Can Hold Me	Draimus	FALSE	Open	658	Feb 23, 00:49
+Alexander Bishop	Ozlen	Blades of Grass	Tutanethe	FALSE	Open	609	Feb 23, 09:12
+Alexander Bishop	Ozlen	A Stick in the Mud	Tutanethe	FALSE	Open	806	Feb 23, 10:20
+Alexander Bishop	Ozlen	A Long Road Ahead	Tutanethe	FALSE	Open	242	Feb 23, 10:32
+Gwendolyn Janusdottir	Gwen	Long Way Down	Antithan	FALSE	Closed	2067	Feb 23, 12:28
+Gwendolyn Janusdottir	Gwen	New Battles	Antithan	FALSE	Open	1524	Feb 23, 13:16
+Dorothea Agnersdottir	Janni	Run and Hide	Recomera	FALSE	Closed	292	Feb 23, 16:22
+Dorothea Agnersdottir	Janni	Twisted Luck	Recomera	FALSE	Closed	290	Feb 23, 16:57
+Kitty Rose	Kat	A Long Road Ahead	Tutanethe	FALSE	Open	269	Feb 23, 22:07
+Lincoln Hale	Damien	Long Way Down	Invidia	FALSE	Closed	3019	Feb 24, 01:42
+Dorothea Agnersdottir	Janni	Is This Real?	Recomera	FALSE	Open	607	Feb 24, 16:20
+Morcdar	Ozlen	Fear Is For The Weak	Invidia	FALSE	Open	603	Feb 24, 17:08
+Maia Elverson	Damien	Is This Real?	Draimus	FALSE	Open	830	Feb 25, 02:03
+Alexander Bishop	Ozlen	A Long Road Ahead	Tutanethe	FALSE	Open	322	Feb 25, 10:32
+Lincoln Hale	Damien	Fear Is For The Weak	Invidia	FALSE	Open	1033	Feb 25, 13:33
+Xander Di Morne	Xander	Fools Rush In	Invidia	FALSE	Open	410	Feb 25, 14:54
+Lincoln Hale	Damien	Into The Portal	Invidia	FALSE	Open	829	Feb 26, 15:02
+Kitty Rose	Kat	A Long Road Ahead	Tutanethe	FALSE	Open	281	Feb 26, 19:43
+Maia Elverson	Damien	Blades of Grass	Draimus	FALSE	Open	603	Feb 27, 03:10
+Alexander Bishop	Ozlen	A Long Road Ahead	Tutanethe	FALSE	Open	314	Feb 27, 12:21
+Gwendolyn Janusdottir	Gwen	Long Way Down	Antithan	FALSE	Closed	3372	Feb 27, 18:55
+Ariana Summers	Eleusis	A Stick in the Mud	Invidia	FALSE	Open	624	Feb 27, 19:14
+Kitty Rose	Kat	Into The Portal	Tutanethe	FALSE	Open	404	Feb 27, 19:18
+Zhia	Eleusis	Fear Is For The Weak	Invidia	FALSE	Open	707	Feb 27, 19:39
+Kitty Rose	Kat	A Long Road Ahead	Tutanethe	FALSE	Open	243	Feb 27, 19:52
+Zhia	Eleusis	New Battles	Invidia	FALSE	Open	1527	Feb 27, 23:10
+Lincoln Hale	Damien	Long Way Down	Invidia	FALSE	Closed	4017	Feb 28, 00:19
+Gwendolyn Janusdottir	Gwen	Long Way Down	Antithan	FALSE	Closed	4058	Feb 28, 14:28
+Lincoln Hale	Damien	Long Way Down	Invidia	FALSE	Closed	4120	Feb 28, 20:45
+Zhia	Eleusis	I'll Never Tell	Invidia	TRUE	Closed	639	Mar 01, 19:59
+Ariana Summers	Eleusis	Swish and Flick	Invidia	TRUE	Open	661	Mar 01, 21:35
+Morcdar	Ozlen	Searching For More	Invidia	TRUE	Open	807	Mar 02, 16:19
+Surreal	Kat	Say What You Wanna Say	Invidia	TRUE	Closed	425	Mar 02, 21:15
+Maia Elverson	Damien	Say What You Wanna Say	Draimus	TRUE	Closed	1376	Mar 03, 00:57
+Lincoln Hale	Damien	I'll Never Tell	Invidia	TRUE	Closed	1080	Mar 03, 01:53
+Dorothea Agnersdottir	Janni	Searching For More	Recomera	TRUE	Open	557	Mar 03, 10:28
+Dorothea Agnersdottir	Janni	Don't Give Up Yet	Recomera	TRUE	Closed	244	Mar 03, 15:23
+Surreal	Kat	Don't Give Up Yet	Invidia	TRUE	Closed	251	Mar 03, 16:16
+Dorothea Agnersdottir	Janni	Don't Give Up Yet	Recomera	TRUE	Closed	222	Mar 03, 17:03
+Gwendolyn Janusdottir	Gwen	Portrait of Homicide	Antithan	TRUE	Closed	3064	Mar 03, 19:40
+Morcdar	Ozlen	Searching For More	Invidia	TRUE	Open	526	Mar 04, 10:56
+Dorothea Agnersdottir	Janni	Searching For More	Recomera	TRUE	Open	446	Mar 04, 13:00
+Lincoln Hale	Damien	Hardly Anything Left For You To See	Invidia	TRUE	Closed	1016	Mar 04, 15:36
+Morcdar	Ozlen	Portrait of Homicide	Invidia	TRUE	Closed	834	Mar 04, 15:55
+Dorothea Agnersdottir	Janni	This Place	Recomera	TRUE	Closed	262	Mar 04, 16:20
+Morcdar	Ozlen	Searching For More	Invidia	TRUE	Open	272	Mar 04, 16:27
+Zhia	Eleusis	I'll Never Tell	Invidia	TRUE	Closed	832	Mar 04, 16:45
+Gwendolyn Janusdottir	Gwen	Portrait of Homicide	Antithan	TRUE	Closed	3084	Mar 04, 18:02
+Lincoln Hale	Damien	I'll Never Tell	Invidia	TRUE	Closed	1043	Mar 04, 22:33

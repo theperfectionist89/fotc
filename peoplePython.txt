@@ -1,0 +1,6 @@
+Zephyr|Demon|Professional|Terrorist|Invidia|21|21000|101|136|140|139|200|135|200|200|200|114|CRAAAIDG|Electric Manipulation!3!Pheromone Control!3!N/A!0
+Remas|Demon|Dreadnought|Dreadnought|Invidia|21|21000|131|200|200|71|179|200|100|46|200|92||Reactive Adaption!1!Pyrokinesis!1!Cryokinesis!1
+Meg|Human|Scholar|Scholar|Sapydra|21|21000|108|106|154|112|189|125|114|200|136|112||N/A!0!N/A!0!N/A!0
+Adam|Human|Scholar|Scholar|Recomera|21|21000|66|71|70|110|195|187|167|70|76|95||N/A!0!N/A!0!N/A!0
+Vidarlas|Demon|Berserker|Berserker|Invidia|15|10500|71|200|92|135|72|35|66|134|200|67|CRCV|Umbrakinesis!1!Blood Blades!4!!0
+Vasaria|Cat|Professional|Professional|Invidia|15|10500|78|79|107|102|136|92|134|102|200|73|CRDGCE|Photographic Memory!4!!0!!0
